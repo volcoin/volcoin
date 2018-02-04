@@ -1,0 +1,1 @@
+This file is only to create obj/crypto folder on git repository and avoid error on compilation
